@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://xingchengwang.github.io/"/>
-  <updated>2017-07-24T14:25:28.837Z</updated>
+  <updated>2017-07-24T14:30:45.548Z</updated>
   <id>https://xingchengwang.github.io/</id>
   
   <author>
@@ -20,12 +20,29 @@
     <link href="https://xingchengwang.github.io/2017/07/24/My-Second-blog/"/>
     <id>https://xingchengwang.github.io/2017/07/24/My-Second-blog/</id>
     <published>2017-07-24T14:25:28.000Z</published>
-    <updated>2017-07-24T14:25:28.837Z</updated>
+    <updated>2017-07-24T14:30:45.548Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="我的第2篇博文"><a href="#我的第2篇博文" class="headerlink" title="我的第2篇博文"></a>我的第2篇博文</h2><h3 id="我是上海第2隔壁老王"><a href="#我是上海第2隔壁老王" class="headerlink" title="我是上海第2隔壁老王"></a>我是上海第2隔壁老王</h3><h3 id="毕业于-USF-TUI"><a href="#毕业于-USF-TUI" class="headerlink" title="毕业于 USF-TUI"></a>毕业于 USF-TUI</h3><ul>
+<li>哈哈哈2</li>
+<li>啦啦啦22222</li>
+<li>我是卖报的小行家2222222</li>
+</ul>
+]]></content>
     
     <summary type="html">
     
+      &lt;h2 id=&quot;我的第2篇博文&quot;&gt;&lt;a href=&quot;#我的第2篇博文&quot; class=&quot;headerlink&quot; title=&quot;我的第2篇博文&quot;&gt;&lt;/a&gt;我的第2篇博文&lt;/h2&gt;&lt;h3 id=&quot;我是上海第2隔壁老王&quot;&gt;&lt;a href=&quot;#我是上海第2隔壁老王&quot; class=&quot;head
+    
     </summary>
     
+      <category term="test category3" scheme="https://xingchengwang.github.io/categories/test-category3/"/>
+    
+    
+      <category term="USF" scheme="https://xingchengwang.github.io/tags/USF/"/>
+    
+      <category term="third" scheme="https://xingchengwang.github.io/tags/third/"/>
+    
+      <category term="blog" scheme="https://xingchengwang.github.io/tags/blog/"/>
     
   </entry>
   
@@ -54,9 +71,9 @@
     
       <category term="USF" scheme="https://xingchengwang.github.io/tags/USF/"/>
     
-      <category term="first" scheme="https://xingchengwang.github.io/tags/first/"/>
-    
       <category term="blog" scheme="https://xingchengwang.github.io/tags/blog/"/>
+    
+      <category term="first" scheme="https://xingchengwang.github.io/tags/first/"/>
     
   </entry>
   
