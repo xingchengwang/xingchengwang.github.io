@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://xingchengwang.github.io/"/>
-  <updated>2017-07-24T13:56:46.791Z</updated>
+  <updated>2017-07-24T14:25:28.837Z</updated>
   <id>https://xingchengwang.github.io/</id>
   
   <author>
@@ -16,11 +16,56 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>My Second blog</title>
+    <link href="https://xingchengwang.github.io/2017/07/24/My-Second-blog/"/>
+    <id>https://xingchengwang.github.io/2017/07/24/My-Second-blog/</id>
+    <published>2017-07-24T14:25:28.000Z</published>
+    <updated>2017-07-24T14:25:28.837Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>My First blog</title>
+    <link href="https://xingchengwang.github.io/2017/07/24/my%20first%20blog/"/>
+    <id>https://xingchengwang.github.io/2017/07/24/my first blog/</id>
+    <published>2017-07-23T16:00:00.000Z</published>
+    <updated>2017-07-24T14:27:41.205Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="我的第一篇博文"><a href="#我的第一篇博文" class="headerlink" title="我的第一篇博文"></a>我的第一篇博文</h2><h3 id="我是上海第一隔壁老王"><a href="#我是上海第一隔壁老王" class="headerlink" title="我是上海第一隔壁老王"></a>我是上海第一隔壁老王</h3><h3 id="毕业于-USF"><a href="#毕业于-USF" class="headerlink" title="毕业于 USF"></a>毕业于 USF</h3><ul>
+<li>哈哈哈</li>
+<li>啦啦啦</li>
+<li>我是卖报的小行家</li>
+</ul>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;我的第一篇博文&quot;&gt;&lt;a href=&quot;#我的第一篇博文&quot; class=&quot;headerlink&quot; title=&quot;我的第一篇博文&quot;&gt;&lt;/a&gt;我的第一篇博文&lt;/h2&gt;&lt;h3 id=&quot;我是上海第一隔壁老王&quot;&gt;&lt;a href=&quot;#我是上海第一隔壁老王&quot; class=&quot;head
+    
+    </summary>
+    
+      <category term="test category" scheme="https://xingchengwang.github.io/categories/test-category/"/>
+    
+    
+      <category term="USF" scheme="https://xingchengwang.github.io/tags/USF/"/>
+    
+      <category term="first" scheme="https://xingchengwang.github.io/tags/first/"/>
+    
+      <category term="blog" scheme="https://xingchengwang.github.io/tags/blog/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Hello World</title>
-    <link href="https://xingchengwang.github.io/2017/07/24/hello-world/"/>
-    <id>https://xingchengwang.github.io/2017/07/24/hello-world/</id>
-    <published>2017-07-24T08:04:30.897Z</published>
-    <updated>2017-07-24T13:56:46.791Z</updated>
+    <link href="https://xingchengwang.github.io/2017/07/23/hello-world/"/>
+    <id>https://xingchengwang.github.io/2017/07/23/hello-world/</id>
+    <published>2017-07-22T16:00:00.000Z</published>
+    <updated>2017-07-24T14:27:59.142Z</updated>
     
     <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
 <h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo new <span class="string">"My New Post"</span></div></pre></td></tr></table></figure>
@@ -47,37 +92,6 @@
       <category term="second" scheme="https://xingchengwang.github.io/tags/second/"/>
     
       <category term="blog2" scheme="https://xingchengwang.github.io/tags/blog2/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>My First blog</title>
-    <link href="https://xingchengwang.github.io/2017/02/06/my%20first%20blog/"/>
-    <id>https://xingchengwang.github.io/2017/02/06/my first blog/</id>
-    <published>2017-02-05T16:00:00.000Z</published>
-    <updated>2017-07-24T13:55:05.789Z</updated>
-    
-    <content type="html"><![CDATA[<h2 id="我的第一篇博文"><a href="#我的第一篇博文" class="headerlink" title="我的第一篇博文"></a>我的第一篇博文</h2><h3 id="我是上海第一隔壁老王"><a href="#我是上海第一隔壁老王" class="headerlink" title="我是上海第一隔壁老王"></a>我是上海第一隔壁老王</h3><h3 id="毕业于-USF"><a href="#毕业于-USF" class="headerlink" title="毕业于 USF"></a>毕业于 USF</h3><ul>
-<li>哈哈哈</li>
-<li>啦啦啦</li>
-<li>我是卖报的小行家</li>
-</ul>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;h2 id=&quot;我的第一篇博文&quot;&gt;&lt;a href=&quot;#我的第一篇博文&quot; class=&quot;headerlink&quot; title=&quot;我的第一篇博文&quot;&gt;&lt;/a&gt;我的第一篇博文&lt;/h2&gt;&lt;h3 id=&quot;我是上海第一隔壁老王&quot;&gt;&lt;a href=&quot;#我是上海第一隔壁老王&quot; class=&quot;head
-    
-    </summary>
-    
-      <category term="test category" scheme="https://xingchengwang.github.io/categories/test-category/"/>
-    
-    
-      <category term="USF" scheme="https://xingchengwang.github.io/tags/USF/"/>
-    
-      <category term="first" scheme="https://xingchengwang.github.io/tags/first/"/>
-    
-      <category term="blog" scheme="https://xingchengwang.github.io/tags/blog/"/>
     
   </entry>
   
